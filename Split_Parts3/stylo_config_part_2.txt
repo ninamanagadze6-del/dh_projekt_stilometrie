@@ -1,0 +1,9 @@
+start at 1
+culling min 0
+culling max 0
+culling incr 20
+mfw list cutoff 5000
+delete pronouns false
+use existing freq tables false
+use existing wordlist false
+use custom list of files false

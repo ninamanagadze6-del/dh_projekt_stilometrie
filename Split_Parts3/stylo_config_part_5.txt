@@ -1,0 +1,8 @@
+label offset 0
+add to margins 2
+dendrogram layout horizontal true
+pca visual flavour classic
+save distance tables false
+save analyzed features false
+save analyzed freqs false
+dump samples false

@@ -1,0 +1,9 @@
+write svg file false
+write png file false
+plot custom height 7
+plot custom width 7
+plot font size 10
+plot line thickness 1
+text id on graphs labels
+colors on graphs colors
+titles on graphs true
